@@ -1,0 +1,502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"type"
+			],
+			[
+				"_",
+				"$_POST〔variable〕"
+			],
+			[
+				"pri",
+				"print_r〔function〕"
+			],
+			[
+				"for",
+				"foreach〔keyword〕"
+			],
+			[
+				"uns",
+				"unset〔keyword〕"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"bacgr",
+				"backgroundColor"
+			],
+			[
+				"BA",
+				"background"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"sta",
+				"startTime"
+			],
+			[
+				"fi",
+				"finishTime"
+			],
+			[
+				"getEleme",
+				"getElementById"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"li",
+				"liElements"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"doc",
+				"document.getElementsByTagName"
+			],
+			[
+				"que",
+				"querySelectorAll\t( selectors: DOMString ): NodeList Element"
+			],
+			[
+				"has",
+				"hasAirbag"
+			],
+			[
+				"car",
+				"carMazda"
+			],
+			[
+				"s",
+				"slice〔function〕"
+			],
+			[
+				"nam",
+				"names"
+			],
+			[
+				"ani",
+				"animalVoice"
+			],
+			[
+				"ca",
+				"case"
+			],
+			[
+				"prom",
+				"prompt〔function〕"
+			],
+			[
+				"is",
+				"isStudent"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"m",
+				"margin-right\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"f",
+				"figcaption\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Web Developer Cours/CSS/text and fonts.html",
+		"/C/Users/flat30/Python3/api_intro.py",
+		"/C/Users/flat30/Python3/get_data.py",
+		"/C/Users/flat30/Python3/get_data_relatively.py",
+		"/C/Users/flat30/Python3/quotes_scraping.py",
+		"/C/Users/flat30/Python3/beautiful_soup.py",
+		"/C/Users/flat30/Python3/http_requests.py",
+		"/C/Users/flat30/Desktop/Python3/http_requests.py",
+		"/D/xampp/htdocs/MySql/login_task_secure.php",
+		"/D/xampp/htdocs/MySql/session_and_cookies.php",
+		"/D/xampp/htdocs/MySql/login_session_and_cookies.php",
+		"/D/xampp/htdocs/MySql/login_task.php",
+		"/D/xampp/htdocs/MySql/login_insert.php",
+		"/D/xampp/htdocs/MySql/login_delete.php",
+		"/D/xampp/htdocs/MySql/login_edit.php",
+		"/D/xampp/htdocs/MySql/exercises.php",
+		"/D/xampp/htdocs/MySql/login_task1.php",
+		"/D/xampp/htdocs/MySql/login.php",
+		"/D/xampp/htdocs/MySql/db_connection.php",
+		"/D/xampp/htdocs/weatherApp/styles/style.css",
+		"/D/xampp/htdocs/weatherApp/index.php",
+		"/D/xampp/htdocs/myPHP/anotherFile.php",
+		"/D/xampp/htdocs/myPHP/index.php",
+		"/D/xampp/htdocs/myPHP/form.php",
+		"/D/xampp/htdocs/myPHP/hello.php",
+		"/D/Web Developer Cours/Bootstrap/helloBootstrap.html",
+		"/D/Web Developer Cours/Bootstrap/WebMastersApp/index.html",
+		"/D/Web Developer Cours/Bootstrap/WebMastersApp/style.css",
+		"/D/Web Developer Cours/jQuery/ShoppingList/ShoppingList/index.html",
+		"/D/Web Developer Cours/jQuery/ShoppingList/ShoppingList/css/style.css",
+		"/D/Web Developer Cours/jQuery/ShoppingList/ShoppingList/js/shopping-list.js",
+		"/D/Web Developer Cours/jQuery/jQuery-examples/jQuery-examples.html",
+		"/D/Web Developer Cours/jQuery/jQuery.html",
+		"/D/Web Developer Cours/JavaScript/Change-the-color/changeTheColor.html",
+		"/D/Web Developer Cours/JavaScript/HelloJavaScript.html",
+		"/D/Web Developer Cours/JavaScript/JS-finish/javaScript.html",
+		"/D/Web Developer Cours/JavaScript/script.js",
+		"/D/Web Developer Cours/JavaScript/JS-finish/javaScript.js",
+		"/D/Web Developer Cours/JavaScript/Change-the-color/changeTheColor.js",
+		"/D/Web Developer Cours/JavaScript/script1.js",
+		"/D/Web Developer Cours/JavaScript/cars-Database/carsDatabase.html",
+		"/D/Web Developer Cours/JavaScript/cars-Database/carsDatabase.js",
+		"/D/Web Developer Cours/JavaScript/cars-Database/carDatabase.js",
+		"/D/Web Developer Cours/JavaScript/functions/functions.html",
+		"/D/Web Developer Cours/JavaScript/questionnaire/questionary.js",
+		"/D/Web Developer Cours/JavaScript/цикл-for/for.js",
+		"/D/Web Developer Cours/JavaScript/functions/functions.js",
+		"/D/Web Developer Cours/JavaScript/weight-estimate-by-height/while.jpg",
+		"/D/Web Developer Cours/JavaScript/цикл-while/while.html",
+		"/D/Web Developer Cours/JavaScript/цикл-while/while.js",
+		"/D/Web Developer Cours/JavaScript/цикл-for/for.html",
+		"/D/Web Developer Cours/JavaScript/switch-script.js",
+		"/D/Web Developer Cours/JavaScript/weight-estimate-by-height/WeightEstimation.html",
+		"/D/Web Developer Cours/JavaScript/LoginPasswordWithSwith/login-password-with-swith.html",
+		"/D/Web Developer Cours/JavaScript/weight-estimate-by-height/WeightEstimation.js",
+		"/D/Web Developer Cours/JavaScript/LoginPasswordWithSwith/login-password-with-swith.js",
+		"/D/Web Developer Cours/JavaScript/body-mass-index/script1.js",
+		"/D/Web Developer Cours/JavaScript/weight-estimate-by-height/WeightEstimateByHeight.js",
+		"/D/Web Developer Cours/JavaScript/weight-estimate-by-height/WeightEstimateByHeight.html",
+		"/D/Web Developer Cours/JavaScript/CurrencyExchange/currency-exchange.html",
+		"/D/Web Developer Cours/JavaScript/questionnaire/questionary.html",
+		"/D/Web Developer Cours/JavaScript/CurrencyExchange/scripts/currency-exchange.js",
+		"/D/Web Developer Cours/JavaScript/questionnaire/questionnaire.js",
+		"/D/Web Developer Cours/JavaScript/questionnaire/questionnaire.html",
+		"/D/Web Developer Cours/JavaScript/formJS_task.html",
+		"/D/Web Developer Cours/JavaScript/formJS_task.js",
+		"/D/Web Developer Cours/JavaScript/questionnaire/formJS_task.js",
+		"/D/Web Developer Cours/JavaScript/questionnaire/formJS_task.html",
+		"/D/Web Developer Cours/JavaScript/formJS.html",
+		"/D/Web Developer Cours/CSS/css-images-web.html",
+		"/D/Web Developer Cours/Html/my_site/pages/task5_2.html",
+		"/D/Web Developer Cours/CSS/css-images-web.css",
+		"/D/Web Developer Cours/CSS/HelloJavaScript",
+		"/D/Web Developer Cours/CSS/style.css",
+		"/D/Web Developer Cours/Html/img.html",
+		"/D/Web Developer Cours/CSS/inheritance-and-specificity.html",
+		"/D/Web Developer Cours/CSS/styling-links.html",
+		"/D/Web Developer Cours/CSS/te3",
+		"/D/Web Developer Cours/CSS/css-task12.html",
+		"/D/Web Developer Cours/CSS/css-pasiton.css",
+		"/D/Web Developer Cours/CSS/css-pasiton.html",
+		"/D/Web Developer Cours/CSS/css-float.html",
+		"/D/Web Developer Cours/CSS/css-float.css",
+		"/D/Web Developer Cours/CSS/css-padding.css",
+		"/D/Web Developer Cours/CSS/css-padding.html",
+		"/D/Web Developer Cours/CSS/css-margin.html",
+		"/D/Web Developer Cours/CSS/css-margin.css",
+		"/D/Web Developer Cours/CSS/advanced-selectors.css",
+		"/D/Web Developer Cours/CSS/advanced-selectors.html",
+		"/D/Web Developer Cours/CSS/external-css.css",
+		"/D/Web Developer Cours/CSS/css-29.html",
+		"/D/Web Developer Cours/CSS/css-28.html",
+		"/D/Web Developer Cours/CSS/css-task11.html",
+		"/D/Web Developer Cours/CSS/css-types.html",
+		"/D/Web Developer Cours/CSS/css-task10.html",
+		"/D/Web Developer Cours/CSS/css-task9.html",
+		"/D/Web Developer Cours/CSS/external-css-task9.css",
+		"/D/Web Developer Cours/CSS/css-task.html",
+		"/D/Web Developer Cours/CSS/css-task9",
+		"/D/Web Developer Cours/Html/index.html",
+		"/D/Web Developer Cours/Html/my_first_html_doc.html",
+		"/D/Web Developer Cours/Html/html5_forms.html",
+		"/D/Web Developer Cours/Html/html5.html",
+		"/D/Web Developer Cours/Html/html5_forms",
+		"/D/Web Developer Cours/Html/forms.html",
+		"/D/Web Developer Cours/Html/table.html",
+		"/D/Web Developer Cours/Html/links.html",
+		"/D/Web Developer Cours/Html/task5.html",
+		"/D/Web Developer Cours/Html/web_code_ninja.html",
+		"/D/Web Developer Cours/Html/task5_links.html",
+		"/D/Web Developer Cours/Html/folder/links2.html",
+		"/D/Web Developer Cours/links3.html",
+		"/D/Web Developer Cours/Html/folder/links2",
+		"/D/Web Developer Cours/Html/list.html",
+		"/D/Web Developer Cours/Html/my_first_html_task.html",
+		"/D/Web Developer Cours/Html/hellowold.html",
+		"/C/Users/flat30/Desktop/тест/index.html",
+		"/C/Users/flat30/Desktop/тест/style.css",
+		"/D/WEB/2021/css_2/css_2/index.html",
+		"/D/WEB/2021/css_2/css_2/css/style.css",
+		"/D/WEB/2021/css_1/css_1/index.html",
+		"/D/WEB/2021/css_1/css_1/css/style.css",
+		"/D/WEB/2021/htmltags_3/htmltags_3/index.html",
+		"/D/WEB/2021/htmltags_2/htmltags_2/index.html",
+		"/D/WEB/2021/htmltags_1/htmltags_1/index.html",
+		"/D/WEB/2021/obuchalka/obuchalka/index.html",
+		"/D/WEB/2021/teploobmenniki-bsi/teploobmenniki-bsi/index.html",
+		"/C/Users/flat30/Desktop/тест/main.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "home.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
